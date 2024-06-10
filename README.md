@@ -9,7 +9,7 @@ Here's a breakdown of the variables:
 - l_avg correspond to \ell 
 - l_std correspond to the standard deviation of \ell 
 - l_f correspond to \ell_f 
-- V_t correspond to the theoretical velocity V 
+- V_t correspond to the theoretical velocity V with \beta=1
 - V_exp correspond to the experimental velocity V_{exp} 
 
 
