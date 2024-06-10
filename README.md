@@ -11,5 +11,6 @@ Here's a breakdown of the variables:
 - l_f correspond to \ell_f 
 - V_t correspond to the theoretical velocity V 
 - V_exp correspond to the experimental velocity V_{exp} 
-\
+
+
 V_t and V_exp are matrices where the rows represent the different drops in the frame and the columns represent time.
